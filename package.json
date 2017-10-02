@@ -1,0 +1,12 @@
+{
+  "name": "puppeteer-screenshots",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "puppeteer": "~0.10.2"
+  }
+}
